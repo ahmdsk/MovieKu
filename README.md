@@ -1,16 +1,45 @@
-# movieku
+# FetchAPI TMDB API with DIO + Flutter
 
-A new Flutter project.
+This Flutter project demonstrates how to fetch movie data from the [TMDB API](https://www.themoviedb.org/) using the DIO package for educational purposes.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![Screenshot1](screenshoot1.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Fetch movie data from TMDB API.
+- Display movie posters, titles, and descriptions.
+- Use DIO package for network requests.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/ahmdsk/MovieKu.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   git clone https://github.com/ahmdsk/MovieKu.git
+   ```
+
+1. Clone this repository:
+
+   ```bash
+   cd fetchapi-tmdb-dio-flutter
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the app:
+
+   ```bash
+   flutter run
+   ```
